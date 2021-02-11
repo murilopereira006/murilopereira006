@@ -12,6 +12,8 @@
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
   <br />
+  
+📫 Envie um email para: muriloedu006@gmail.com.
 
 [comment]: <> (**Meus interesses pessoais:**)
 
@@ -22,7 +24,6 @@
 [comment]: <> (- 🤔 Meus hobbies são gravação de conteúdos, ler de livros e jogar League of Legends;)
 [comment]: <> (- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;)
 [comment]: <> (- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;)
-// - 📫 Envie um email para muriloedu006@gmail.com.
 [comment]: <> (- 📝 Veja meu <a href="https://drive.google.com/file/d/1b54CIEvnDLr4jFnbtdg4pWVsSN6RHA8f/view?usp=sharing" target="_blank">Currículo</a> para mais informações.)
 
 

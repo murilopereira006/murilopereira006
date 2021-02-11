@@ -52,4 +52,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilopereira006" alt="murilopereira006" /> </p>
 
-⭐️ Baseado em [CallmeMehdi](https://github.com/strongreen)
+⭐️ Baseado em [Hérika Strongreen](https://github.com/strongreen)

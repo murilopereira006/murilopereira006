@@ -2,7 +2,7 @@
 
 <p align="left">
   <p>
-    Olá, me chamo <b>Murilo Pereira</b>, moro atualmente em São Paulo/SP-BR, estou me capacitando para ser uma <b>Desenvolvedor Full-Stack</b>. Atualmente trabalho com vendas em e-commerce e <b>Web Design.</b> 🚀
+    Olá, me chamo <b>Murilo Pereira</b>, moro em São Paulo/SP-BR, estou me capacitando para ser uma <b>Desenvolvedor Full-Stack</b>. Atualmente trabalho com vendas em e-commerce e <b>Web Design.</b> 🚀
   </p>
 </p>
  <a href="https://github.com/strongreen" target="_blank">

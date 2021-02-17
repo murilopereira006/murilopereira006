@@ -27,7 +27,7 @@
 [comment]: <> (- 📝 Veja meu <a href="https://drive.google.com/file/d/1b54CIEvnDLr4jFnbtdg4pWVsSN6RHA8f/view?usp=sharing" target="_blank">Currículo</a> para mais informações.)
 
 
-Linguagens e ferramentas:
+**Linguagens e ferramentas:**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

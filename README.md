@@ -2,7 +2,7 @@
 
 <p align="left">
   <p>
-    Olá, me chamo <b>Murilo Pereira</b>, moro em São Paulo/SP-BR, estou me capacitando para ser uma <b>Desenvolvedor Full-Stack</b>. Atualmente trabalho com <b>gestão de e-commerce</b> e <b>Web Design</b>. 🚀
+    Com formação profissional em Desenvolvimento Fullstack, me especializei em Front-end, acumulando 2,3 anos de experiência na Zipia, onde trabalhei em projetos que envolviam tecnologias como React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS e JavaScript. 🚀
   </p>
 </p>
  <a href="https://github.com/strongreen" target="_blank">

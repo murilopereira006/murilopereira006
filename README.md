@@ -4,6 +4,9 @@
   <p>
     Com formação profissional em Desenvolvimento Fullstack, me especializei em Front-end, acumulando 2,3 anos de experiência na Zipia, onde trabalhei em projetos que envolviam tecnologias como React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS e JavaScript. 🚀
   </p>
+  <p>
+  Professionally trained in Fullstack Development with a strong focus on Front-end development. I have accumulated 2.3 years of experience at Zipia, where I've contributed to projects involving cutting-edge technologies including React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS, and JavaScript. Check out my GitHub repository to explore some of the exciting projects I've been a part of.🚀
+  </p>
 </p>
  <a href="https://github.com/strongreen" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -40,8 +43,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/cypress-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/docker-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 

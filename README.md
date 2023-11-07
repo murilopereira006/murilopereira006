@@ -8,10 +8,10 @@
   Professionally trained in Fullstack Development with a strong focus on Front-end development. I have accumulated 2.3 years of experience at Zipia, where I've contributed to projects involving cutting-edge technologies including React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS, and JavaScript. Check out my GitHub repository to explore some of the exciting projects I've been a part of.🚀
   </p>
 </p>
- <a href="https://github.com/strongreen" target="_blank">
+ <a href="https://github.com/murilopereira006" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
   </a>
-  <a href="https://www.linkedin.com/in/murilo-eduardo-pereira-7658851a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/murilopereira006/" target="_blank">
     <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
   </a>
   <br />
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypress/cypress-original.svg" alt="cypress" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/brand-cypress-icon-512x512-td81socq.png" alt="cypress" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>

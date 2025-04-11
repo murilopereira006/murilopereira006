@@ -2,7 +2,7 @@
 
 <p align="left">
   <p>
-    Com formação profissional em Desenvolvimento Fullstack, me especializei em Front-end, acumulando 2,3 anos de experiência na Zipia, onde trabalhei em projetos que envolviam tecnologias como React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS e JavaScript. 🚀
+    Com formação profissional em Desenvolvimento Fullstack, me especializei em Front-end, acumulando 5 anos de experiência na Zipia, onde trabalhei em projetos que envolviam tecnologias como React, React-Native, Tailwind, WordPress, Ruby on Rails, HTML, CSS e JavaScript. 🚀
   </p>
   
 **Welcome!**

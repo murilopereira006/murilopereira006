@@ -21,38 +21,66 @@ My work focuses on **building reliable systems from architecture to production**
 
 ## 🛠 Technologies
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- React Hook Form
-- Storybook
-- GSAP
-
-### Backend
-- Node.js
-- Express
-- Elysia.js
-- PostgreSQL
-- Prisma
-- Sequelize
-- REST APIs
-
-### DevOps & Infrastructure
-- Docker
-- GitHub Actions
-- CI/CD pipelines
-- Linux environments
-- Cloud services
-
-### Testing & Code Quality
-- Cypress
-- Jest
-- Linters
-- Automated pipelines
-
----
+<table width="100%" style="width:100%; table-layout:fixed; max-width:100%">
+<colgroup>
+<col width="25%">
+<col width="25%">
+<col width="25%">
+<col width="25%">
+</colgroup>
+<thead>
+<tr>
+<th align="left">Frontend</th>
+<th align="left">Backend</th>
+<th align="left">DevOps & Infrastructure</th>
+<th align="left">Testing & Code Quality</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" valign="top" width="25%">
+<ul>
+<li>React</li>
+<li>Next.js</li>
+<li>TypeScript</li>
+<li>Tailwind CSS</li>
+<li>React Hook Form</li>
+<li>Storybook</li>
+<li>GSAP</li>
+</ul>
+</td>
+<td align="left" valign="top" width="25%">
+<ul>
+<li>Node.js</li>
+<li>Express</li>
+<li>Elysia.js</li>
+<li>PostgreSQL</li>
+<li>Prisma</li>
+<li>Sequelize</li>
+<li>REST APIs</li>
+</ul>
+</td>
+<td align="left" valign="top" width="25%">
+<ul>
+<li>Docker</li>
+<li>GitHub Actions</li>
+<li>CI/CD pipelines</li>
+<li>Linux environments</li>
+<li>Cloud services</li>
+</ul>
+</td>
+<td align="left" valign="top" width="25%">
+<ul>
+<li>Cypress</li>
+<li>Jest</li>
+<li>ESLint</li>
+<li>Prettier</li>
+<li>Automated pipelines</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 🧠 Engineering Practices
 

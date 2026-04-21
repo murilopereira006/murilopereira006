@@ -23,22 +23,24 @@ My work focuses on **building reliable systems from architecture to production**
 
 <table width="100%" style="width:100%; table-layout:fixed; max-width:100%">
 <colgroup>
-<col width="25%">
-<col width="25%">
-<col width="25%">
-<col width="25%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
+<col width="20%">
 </colgroup>
 <thead>
 <tr>
 <th align="left">Frontend</th>
 <th align="left">Backend</th>
+<th align="left">AI Engineering</th>
 <th align="left">DevOps & Infrastructure</th>
 <th align="left">Testing & Code Quality</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="left" valign="top" width="25%">
+<td align="left" valign="top" width="20%">
 <ul>
 <li>React</li>
 <li>Next.js</li>
@@ -49,7 +51,7 @@ My work focuses on **building reliable systems from architecture to production**
 <li>GSAP</li>
 </ul>
 </td>
-<td align="left" valign="top" width="25%">
+<td align="left" valign="top" width="20%">
 <ul>
 <li>Node.js</li>
 <li>Express</li>
@@ -60,22 +62,39 @@ My work focuses on **building reliable systems from architecture to production**
 <li>REST APIs</li>
 </ul>
 </td>
-<td align="left" valign="top" width="25%">
+<td align="left" valign="top" width="20%">
+<ul>
+<li>OpenRouter</li>
+<li>Prompt Engineering</li>
+<li>RAG Pipelines</li>
+<li>Embeddings</li>
+<li>LLM Fallback Chains</li>
+<li>Response Caching</li>
+<li>Context Enrichment</li>
+<li>AI Cost Controls</li>
+</ul>
+</td>
+<td align="left" valign="top" width="20%">
 <ul>
 <li>Docker</li>
 <li>GitHub Actions</li>
-<li>CI/CD pipelines</li>
-<li>Linux environments</li>
-<li>Cloud services</li>
+<li>AWS Lambda</li>
+<li>API Gateway</li>
+<li>RDS</li>
+<li>Cloudflare</li>
+<li>GHCR</li>
 </ul>
 </td>
-<td align="left" valign="top" width="25%">
+<td align="left" valign="top" width="20%">
 <ul>
 <li>Cypress</li>
 <li>Jest</li>
 <li>ESLint</li>
 <li>Prettier</li>
-<li>Automated pipelines</li>
+<li>TypeScript</li>
+<li>Husky</li>
+<li>lint-staged</li>
+<li>Gitleaks</li>
 </ul>
 </td>
 </tr>
